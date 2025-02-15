@@ -10,7 +10,7 @@ or read the free [Chisel book](http://www.imm.dtu.dk/~masca/chisel-book.html).
 
 ## What is Tiny Tapeout?
 
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
+Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to manufacture digital and analog designs on a real chip.
 
 To learn more and get started, visit https://tinytapeout.com.
 
